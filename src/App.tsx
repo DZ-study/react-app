@@ -2,9 +2,6 @@ import React from 'react'
 import './App.css'
 
 function App() {
-  const a = 20
-  const b = 20
-
   return (
     <div className="App">
       <header className="App-header">
